@@ -76,3 +76,31 @@
     color: #f4f4f4;
     background-color: #c10000;
 }
+
+
+.mt-5{
+    min-height: .01%;
+    overflow-x: auto;
+}
+th{
+    
+    background-color: #4CAF50;
+  color: white;
+  text-align: left;
+    
+}
+td{
+    color: #f4f4f4;
+    text-align: left;
+    
+}
+
+
+th, td {
+    padding: 15px;
+    text-align: left;
+  }
+  th, td {
+    border-bottom: 1px solid #ddd;
+  }
+

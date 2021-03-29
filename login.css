@@ -11,8 +11,14 @@ body {
     border-radius: 10px;
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.568);
     color: white;
+    
 }
+.formulario:hover{
+transform: translateY(-15px);
+box-shadow: 0 12px 16px rgba(0, 0, 0, 0.3);
 
+
+}
 .form-control {
     background: rgba(0, 0, 0, .3);
     border-style: none;
@@ -76,3 +82,4 @@ body {
     text-decoration-line: none;
     cursor: pointer;
 }
+
